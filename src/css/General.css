@@ -1,0 +1,23 @@
+.btn{
+    border: 1px solid white;
+    
+
+    background-color: #311432;
+    
+}
+.btn:hover{
+    
+    border: 1px solid white;
+    background-color: #663046;
+}
+.logButton a button {
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    background-color: #311432;
+}
+.logButton a button:hover{
+    border: 1px solid white;
+    background-color: #663046;
+    color: white;
+}

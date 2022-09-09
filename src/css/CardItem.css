@@ -1,0 +1,42 @@
+.form-control:focus{
+    border:1px solid #EC6724 ;
+    box-shadow: 0 0 
+
+}
+.inputProp:focus{
+    border:1px solid #EC6724 ;
+    box-shadow: 0 0  
+}
+
+#formInput{
+    background-color: #fff;
+    width: 80%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    
+    border-radius: 10px
+    ;
+
+}
+.bold{
+    font-family: 'Roboto', sans-serif ;
+    color: #EC6724;
+    font-weight: 700;
+}
+.light {
+    font-family: 'Roboto', sans-serif;
+    color: #EC6724;
+    font-weight: 300;
+
+}
+#submitFormBut{
+    background-color: #EC6724;
+    width: 8em;
+    height: 2.5em;
+
+}
+#submitFormBut:hover{
+    border:1px solid #EC6724;
+    background-color: white !important;
+    color:#EC6724
+}
